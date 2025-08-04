@@ -2,7 +2,7 @@ React Native Task List App
 
 A simple and clean cross-platform mobile application for managing daily tasks, built with React Native. This app runs on both iOS and Android from a single JavaScript codebase.
 
-(Replace the placeholder URL above with a real screenshot of your app)
+
 🚀 Features
 
     View Tasks: See a clear list of all your tasks.
